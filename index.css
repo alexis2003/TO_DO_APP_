@@ -1,11 +1,33 @@
-    body {background-color:blue;}
+    
 a{color:red;
     font-family:cursive;
 }
 h2{color:brown;}
 span{color :red;}
-span.span1{color: green;}
+span.span1{color: black;}
 span.span2{color: red;}
+#submit{color:red;
+    border-color: blue;
+    border-width: thick;
+front-size:20px;
+text-align: center;
+color: #fff;
+outline:none;
+border-style:none;
+padding:44px;
+border-radius: 3px;
+box-shadow: 2px 2px 1px #90A4AE;
+display:block;
+background-color: #03A9Fa;
+margin-top: 15px;
+    
+    
+    
+    
+}
 
 
 h1{color:brown;}
+#submit:active {box-shadow:1px 1px 1px 1px red;
+    background-color:red;
+}
