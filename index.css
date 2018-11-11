@@ -1,11 +1,11 @@
-<style>
     body {background-color:blue;}
-    a{color:red;
-        font-family:cursive;
-    }
-    h2{color:brown;}
-    
-    h1{color:brown;}
+a{color:red;
+    font-family:cursive;
+}
+h2{color:brown;}
+span{color :red;}
+span.span1{color: green;}
+span.span2{color: red;}
 
-    
-</style>
+
+h1{color:brown;}
